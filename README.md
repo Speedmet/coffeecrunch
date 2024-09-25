@@ -1,1 +1,1 @@
-Playing around with interactive graphs using plotly to understand the coffeecrunch chain of coffee shops dataset
+This project offers a comprehensive set of visual tools to analyze the performance of a coffee shop chain across different states and markets. It uses interactive charts to help identify trends in sales, profits, and customer behavior, providing valuable insights for decision-making.
